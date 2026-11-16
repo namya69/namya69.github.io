@@ -264,3 +264,9 @@ footer {
     padding: 20px;
     font-size: 14px;
 }
+
+/* Heading above the second table */
+.table-title {
+    margin: 35px 0 15px 0;
+    font-size: 22px;
+}
